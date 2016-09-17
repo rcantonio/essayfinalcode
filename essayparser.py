@@ -3,6 +3,8 @@ Essay Parser
 Version 1.00
 Authors: Antonio, Davila, Greene
 Last updated: 09/17/16
+
+Note: Code must be executed on python 3.5.xx only
 '''
 
 # for clear screen function
